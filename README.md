@@ -8,9 +8,8 @@ Enkele van deze evenementen kon ik bijeenwonen met dank aan Brightest. Tijdens m
 
 ## Evenementen
 In deze sectie kunt u een oplijsting vinden van de evenementen. Per evenement kunt u via de titel doorklikken naar de uitgebreide bespreking van het evenement.
-### Log4J Webinar
-### OWASP BeNeLux Days
-### Incognito CTF
-### Test Automation Bootcamp
-### CTF Cafe
-### [Contribution guidelines for this project](test.md)
+#### [Log4J Webinar](Evenement1_Log4JWebinar)
+#### [OWASP BeNeLux Days](Evenement2_OWASP_BeNeLux_Days)
+#### [Incognito CTF](Evenement3_Incognito_CTF)
+#### [Test Automation Bootcamp](Evenement4_Test_Automation_Bootcamp)
+#### [CTF Cafe](Evenement5_CTF_Cafe)
