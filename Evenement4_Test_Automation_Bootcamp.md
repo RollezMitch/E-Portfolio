@@ -12,7 +12,7 @@ Op dag 2 begonnen we met het gebruiken van Katalon Studio voor web automation. W
 In de namiddag schakelden we dan over naar Mobile Test Automation, dit aan de hand van Android Espresso. Hierin begreep ik alles relatief vlot aangezien we al met Android Studio hebben gewerkt tijdens mijn opleiding.
 
 ## Dag 3: Selenium
-Op de laatste dag werkten we met Selenium en java, dit was een heel praktische dag waarin we al zagen hoe Selenium gebruikt wordt bij echte scenarius en hoe we tot een goed Page Object Model kunnen komen om te testen.
+Op de laatste dag werkten we met Selenium en java, dit was een heel praktische dag waarin we al zagen hoe Selenium gebruikt wordt in echte scenarios en hoe we tot een goed Page Object Model kunnen komen om te testen.
 Ook hierbij kon ik vlot mee aangezien het praktisch allemaal Java was, enkel wat  Selenium functies en methoden waren nieuw voor mij.
 
 ## Conclusie
